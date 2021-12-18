@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SanityTesting" duration-ms="866" started-at="2021-12-17T14:30:11 IST" finished-at="2021-12-17T14:30:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="866" started-at="2021-12-17T14:30:11 IST" finished-at="2021-12-17T14:30:12 IST">
+      <class name="AutoTestingFramework.AppTest">
+        <test-method status="PASS" signature="extentReporter()[pri:0, instance:AutoTestingFramework.AppTest@7a36aefa]" name="extentReporter" is-config="true" duration-ms="207" started-at="2021-12-17T14:30:11 IST" finished-at="2021-12-17T14:30:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReporter -->
+        <test-method status="PASS" signature="helloWorld()[pri:0, instance:AutoTestingFramework.AppTest@7a36aefa]" name="helloWorld" duration-ms="1" started-at="2021-12-17T14:30:11 IST" finished-at="2021-12-17T14:30:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld -->
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:AutoTestingFramework.AppTest@7a36aefa]" name="shouldAnswerWithTrue" duration-ms="606" started-at="2021-12-17T14:30:11 IST" finished-at="2021-12-17T14:30:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- AutoTestingFramework.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- SanityTesting -->
+</testng-results>
